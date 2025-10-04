@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Giri</h1>
-<h3 align="center">A passionate Full Stack developer from Nagpur Maharashtra</h3>
+<h3 align="center">A passionate Full Stack developer from Nagpur, Maharashtra</h3>
 
 - 🔭🔭 I’m currently working on **AI-Based Adaptive Traffic Management System** [Project Link](https://github.com/sachingiri58/Traffic_management)](https://github.com/sachingiri58/Traffic_management))
 
