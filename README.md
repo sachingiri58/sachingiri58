@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Giri</h1>
 <h3 align="center">A passionate Full Stack developer from Nagpur, Maharashtra</h3>
 
-- 🔭🔭 I’m currently working on **AI-Based Adaptive Traffic Management System** [Project Link](https://github.com/sachingiri58/Traffic_management)](https://github.com/sachingiri58/Traffic_management))
+- 🔭🔭 I’m currently working on **AI-Based Adaptive Traffic Management System** [Project Link](https://github.com/sachingiri58/Traffic_management)](https://github.com/sachingiri58/Traffic_management)) and Working on **CalcDiverse project** [Porject Link ("https://github.com/sachingiri58/CaluDiverse")]
 
 - 🌱 I’m currently learning ***Node.js, Express, MongoDB, and Cloud Deployment**
 
