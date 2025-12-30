@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Advanced React & DevOps***
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q5njZZhTaUQEN03QvmkhPDFxSQ40vEnB/view?usp=drivesdk]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JxXy2I1L72g2g0lAFWlrRwoXQN3rSTA5/view?usp=sharing]
 - ⚡ Fun fact **I can debug faster with a cup of coffee ☕ - 😄 I love solving real-life problems using code - 🎯 My ultimate goal is to become a Software Development Engineer**
 
 <h3 align="left">Connect with me:</h3>
