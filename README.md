@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sachin Giri</h1>
 <h3 align="center">A passionate Full Stack developer from Nagpur, Maharashtra</h3>
 
-- 🔭🔭 I’m currently working on **AI-Based Adaptive Traffic Management System** [Project Link](https://github.com/sachingiri58/Traffic_management)](https://github.com/sachingiri58/Traffic_management)) and Working on **CalcDiverse project** [Porject Link ("https://github.com/sachingiri58/CaluDiverse")]
-
 - 🌱 I’m currently learning ***Node.js, Express, MongoDB, and Cloud Deployment**
 
 - 👯 I’m looking to collaborate on [MERN Stack and FULL Stack Projects]((Open Source / Web Development))
 
 - 🤝 I’m looking for help with **Advanced React & DevOps***
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JxXy2I1L72g2g0lAFWlrRwoXQN3rSTA5/view?usp=sharing]
 - ⚡ Fun fact **I can debug faster with a cup of coffee ☕ - 😄 I love solving real-life problems using code - 🎯 My ultimate goal is to become a Software Development Engineer**
 
 <h3 align="left">Connect with me:</h3>
